@@ -23,10 +23,9 @@ I wanted to use VP8 from Google, but I couldn't build it properly without settin
 That's when I decided to learn video and image compression, and the technology behind it. Hopefully this can be utilized for academic purposes by someone else.
 
 ### Why Fourier Transform?
-Because I couldn't figure out the scale factors for the DCT using the [FFTW libraries](http://www.fftw.org/) at first. And when I did figure out how to use the DCT (which does get slightly better performance), it wasn't able to scale quality down as much as the Fourier Transform.
+For Academic Purposes, I wanted to see what would happen. Also partially because I couldn't determine the scale factors for the DCT using the [FFTW libraries](http://www.fftw.org/), due to a lack of clear documentation. When I did figure out how to use the DCT (which does get slightly better performance), it did not retain the interesting scaling properties of the Fourier Transform.
 
 Editing just a few lines of code will make this use the DCT, or other kinds of transforms. 
-
 
 ### What's that blue in the image up there?
 My friend had a blue shirt that day. So blue, that mathematically it wasn't converted to grayscale. I set the scale factors up as high as I could for that video, and as you can imagine, it compressed pretty well. 
