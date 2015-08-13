@@ -5,7 +5,7 @@ This project features a [video encoder](https://en.wikipedia.org/wiki/Encoder). 
 
 In the image you see below you can see that the quality scaled by an enormous factor. Showing a compressed  image frame using  normal settings would be a little redundant as there is no visible difference to the real image.
 
-Crazy Quality Scale Down =>
+Intentional Crazy Quality Scale Down =>
 ![Me in an insanely compressed image](http://i.imgur.com/eZSoY2g.jpg)
 
 On normal settings, the algorithm achieves ratios comparable to older versions of MPEG, with quality slightly superior to MPEG
