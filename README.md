@@ -29,4 +29,4 @@ Editing just a few lines of code will make this use the DCT, or other kinds of t
 
 
 ### What's that blue in the image up there?
-My friend had a very blue shirt that day. So blue, that mathematically it wasn't converted to grayscale. I set the scale factors up as high as I could for that video, and as you can imagine, it compressed pretty well. 
+My friend had a blue shirt that day. So blue, that mathematically it wasn't converted to grayscale. I set the scale factors up as high as I could for that video, and as you can imagine, it compressed pretty well. 
