@@ -8,7 +8,7 @@ In the image you see below you can see that the quality scaled by an enormous fa
 Intentional Crazy Quality Scale Down =>
 ![Me in an insanely compressed image](http://i.imgur.com/eZSoY2g.jpg)
 
-On normal settings, the algorithm achieves ratios comparable to older versions of MPEG, with quality slightly superior to MPEG
+On normal settings, the algorithm achieves ratios comparable to older versions of [MPEG](https://en.wikipedia.org/wiki/Moving_Picture_Experts_Group), with quality slightly superior to MPEG
 
 The video encoder allowed me to implement a Video Chat service similar to [Skype](http://www.skype.com/en/). 
 
