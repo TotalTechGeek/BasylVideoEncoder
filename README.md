@@ -3,7 +3,7 @@ An experimental video encoder. Written in an independent study course during Hig
 ### What is this?
 This project features a [video encoder](https://en.wikipedia.org/wiki/Encoder). It takes data from your video stream and makes it smaller. The video was designed for academic purposes rather than industry purposes. [H.264](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC) and Google's recent [VP9](https://en.wikipedia.org/wiki/VP9) projects achieve superior compression ratios. The current implementation features the [Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform), which is a function used to analyze frequencies,  to compress your data. The Fourier Transform, compared to the standard [Discrete Cosine Transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) has the unique property of being able to ridiculously scale quality down and still achieve recognizable images.
 
-In the image you see below you can see that the quality scaled by an enormous factor. Showing a compressed  image frame with normal settings would be a little redundant as there is no visible difference to the real image.
+In the image you see below you can see that the quality scaled by an enormous factor. Showing a compressed  image frame using  normal settings would be a little redundant as there is no visible difference to the real image.
 
 Crazy Quality Scale Down =>
 ![Me in an insanely compressed image](http://i.imgur.com/eZSoY2g.jpg)
